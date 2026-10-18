@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/*.parquet
+models/*.joblib
+results/*
+!results/backtest.json
+!results/.gitkeep
+.DS_Store
