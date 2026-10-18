@@ -1,0 +1,38 @@
+{
+  "logreg": {
+    "total_return": -0.4734342254930436,
+    "annualized_sharpe": -0.43962271332207675,
+    "max_drawdown": -0.5656358855847522,
+    "n_days": 2148,
+    "hit_rate": 0.47998137802607077,
+    "precision_on_longs": 0.5356725146198831,
+    "n_signals": 2148,
+    "n_longs": 855
+  },
+  "mlp": {
+    "total_return": -0.35700837100064076,
+    "annualized_sharpe": -0.2988131235026159,
+    "max_drawdown": -0.3841685116197815,
+    "n_days": 2148,
+    "hit_rate": 0.5041899441340782,
+    "precision_on_longs": 0.5501330967169477,
+    "n_signals": 2148,
+    "n_longs": 1127
+  },
+  "hgb": {
+    "total_return": 0.09327167124969993,
+    "annualized_sharpe": 0.14485946476153894,
+    "max_drawdown": -0.2805218265534326,
+    "n_days": 2148,
+    "hit_rate": 0.4776536312849162,
+    "precision_on_longs": 0.5255941499085923,
+    "n_signals": 2148,
+    "n_longs": 1094
+  },
+  "buy_and_hold": {
+    "total_return": 1.964423025522645,
+    "annualized_sharpe": 0.7668227945887394,
+    "max_drawdown": -0.3410474689324393,
+    "n_days": 2148
+  }
+}
